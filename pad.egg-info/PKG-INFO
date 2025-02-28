@@ -1,0 +1,11 @@
+Metadata-Version: 2.2
+Name: pad
+Version: 0.0.1
+Author: Ever Macea
+Author-email: ever.macea@est.iudigital.edu.co
+Requires-Dist: pandas
+Requires-Dist: matplotlib
+Requires-Dist: plotly
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
