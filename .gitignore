@@ -1,4 +1,11 @@
-.vscode/*
-rc\pad_2025_py\__pycache__/*
-venv git 
-actividad_1.egg-info 
+# Ignorar entornos virtuales
+venv/
+
+# Ignorar caché de Python
+__pycache__/
+
+# Ignorar configuraciones de VS Code
+.vscode/
+
+# Ignorar metadatos de paquetes de Python
+*.egg-info/
