@@ -23,3 +23,7 @@ print("Nombre: ",persona.nombre) # Acceder al atributo nombre del objeto persona
 print("Edad: ",persona.edad) # Acceder al atributo edad del objeto persona
 print("Estarura :",persona.estatura) # Acceder al atributo estatura del objeto persona
 print("Peso: ",persona.peso) # Acceder al atributo peso del objeto persona
+
+
+import plotly.express as px
+print("Plotly Express importado correctamente")
