@@ -10,9 +10,24 @@ class Ingestiones():
             datos = json.load(f)
         return datos
     
+    def leer_txt(self):
+        ruta_txt = "{}txt/info.txt".format(self.ruta_static)
+        # r read: significa lectura, w write: significa escritura, a append: significa añadir
+        datos = ""
+        with open(file=ruta_txt , mode="r", encoding="utf-8") as f:
+            datos = f.read()
+        return datos
+    
 inges = Ingestiones()
 datos_json = inges.leer_json()
 print(datos_json)
+print("<------------------------------------------------------------------------------------------------------------------>")
+datos_txt = inges.leer_txt()
+print(datos_txt)
+
+
+
+
 
 # import os
 
