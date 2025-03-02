@@ -1,0 +1,4 @@
+¿Qué es un archivo .TXT?
+Los archivos TXT son el formato de archivo de texto más básico y se utilizan para generar archivos de texto sin formato con poco o ningún formato o estilo. Puede abrir archivos .TXT en una variedad de hardware sin preocuparse por la compatibilidad.
+
+Estos documentos suelen crearse utilizando software de texto estándar como Microsoft Notepad y Apple TextEdit, que también actúan como lectores de .TXT.
